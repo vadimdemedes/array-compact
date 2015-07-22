@@ -1,0 +1,31 @@
+{
+  "name": "array-compact",
+  "version": "1.0.0",
+  "description": "Return an array copy without falsy values",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdemedes/array-compact.git"
+  },
+  "keywords": [
+    "compact",
+    "arr-compact"
+  ],
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdemedes/array-compact/issues"
+  },
+  "homepage": "https://github.com/vdemedes/array-compact#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "make-lint-es6": "^1.0.3",
+    "mocha": "^2.2.5"
+  },
+  "files": [
+    "index.js"
+  ]
+}
