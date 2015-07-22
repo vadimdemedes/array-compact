@@ -1,4 +1,4 @@
-# array-compact
+# array-compact [![Circle CI](https://circleci.com/gh/vdemedes/array-compact.svg?style=svg)](https://circleci.com/gh/vdemedes/array-compact)
 
 Return an array copy without falsy values.
 
@@ -22,6 +22,8 @@ compact(arr); // => [1, 'abc', true]
 
 
 ### Tests
+
+[![Circle CI](https://circleci.com/gh/vdemedes/array-compact.svg?style=svg)](https://circleci.com/gh/vdemedes/array-compact)
 
 ```
 $ make test
